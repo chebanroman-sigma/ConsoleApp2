@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|c:\\users\\hi-tech\\documents\\visproect\\consoleapp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD60719-8259-4516-A6C5-E79898901F97}|ConsoleApp2.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program6.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program6.cs",
+              "RelativeDocumentMoniker": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program6.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program6.cs",
+              "RelativeToolTip": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:03:22.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program5.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program5.cs",
+              "RelativeDocumentMoniker": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program5.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program5.cs",
+              "RelativeToolTip": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program5.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:56:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program4.cs",
+              "RelativeDocumentMoniker": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program4.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program4.cs",
+              "RelativeToolTip": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program4.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:41:30.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program3.cs",
+              "RelativeDocumentMoniker": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program3.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program3.cs",
+              "RelativeToolTip": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program3.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:38:13.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program2.cs",
+              "RelativeDocumentMoniker": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program2.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program2.cs",
+              "RelativeToolTip": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:30:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program1.cs",
+              "RelativeDocumentMoniker": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program1.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program1.cs",
+              "RelativeToolTip": "\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:22:13.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "program6.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program6.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:46:24.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program5.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program5.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:36:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "program4.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program4.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:03:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "program3.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:27:35.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "program2.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:27:33.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "program1.cs",
+              "DocumentMoniker": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs",
+              "ToolTip": "C:\\Users\\Hi-Tech\\Documents\\visproect\\ConsoleApp2\\\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:26:33.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
